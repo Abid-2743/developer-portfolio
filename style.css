@@ -1,0 +1,47 @@
+body {
+  font-family: "Crimson Text", serif;
+}
+h1 {
+  font-size: 50px;
+}
+.orange {
+  color: orange;
+}
+
+section {
+  display: flex;
+}
+.half {
+  width: 50%;
+  padding-left: 2%;
+}
+.half img {
+  width: 80%;
+}
+.link-button {
+  text-decoration: none;
+  background-image: linear-gradient(orange, tomato);
+  padding: 10px 40px;
+  border-radius: 5px;
+}
+.png {
+  margin-top: -50px;
+}
+.dream {
+  display: flex;
+  margin-bottom: 150px;
+}
+h2 {
+  font-size: 40px;
+}
+.baby {
+  margin: 30px;
+  margin-right: 10px;
+  border: 20px;
+  padding: 30px;
+  box-shadow: 10px 10px 40px gray;
+  border-left: 7px solid blue;
+}
+#pro {
+  border-left: 7px solid red;
+}
